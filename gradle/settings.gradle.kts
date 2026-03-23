@@ -19,3 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
+rootProject.name = "Smart Library"
+include(":app")
+ 
