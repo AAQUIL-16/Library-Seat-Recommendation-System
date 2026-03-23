@@ -1,1 +1,31 @@
+{
+  "project_info": {
+    "project_number": "516273155438",
+    "firebase_url": "https://smart-library-noise-detection-default-rtdb.firebaseio.com",
+    "project_id": "smart-library-noise-detection",
+    "storage_bucket": "smart-library-noise-detection.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516273155438:android:748d6f19885f36204fe57f",
+        "android_client_info": {
+          "package_name": "com.akash.smartlibrary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPPjmeR8zTWd1Gy_xu3RyWy9qg2XJRygg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
 
