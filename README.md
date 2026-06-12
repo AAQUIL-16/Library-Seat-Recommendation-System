@@ -1,4 +1,4 @@
-STUDYSPOT VIT
+**STUDYSPOT VIT**
 
 -Designed and deployed an IoT-based system for real-time noise monitoring and intelligent library seat recommendation across multiple zones.<br>
 -Developed an Android application providing live seat availability, reservation functionality, and automated recommendation alerts.<br>
